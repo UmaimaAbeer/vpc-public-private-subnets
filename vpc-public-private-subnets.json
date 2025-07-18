@@ -1,0 +1,24 @@
+{
+  "project_title": "VPC with Public and Private Subnets",
+  "author": "Syeda Umaima Abeer",
+  "date_completed": "2025-07-17",
+  "tools_used": [
+    "AWS VPC",
+    "Subnets",
+    "Internet Gateway",
+    "NAT Gateway",
+    "Route Tables",
+    "Elastic IP"
+  ],
+  "description": "Created a custom VPC in AWS with both public and private subnets, configured for secure internet access and isolation. The project involved attaching an internet gateway, setting up route tables, and configuring a NAT gateway for secure outbound access from private instances.",
+  "steps_performed": [
+    "Created a custom VPC with CIDR block 10.0.0.0/16",
+    "Added public and private subnets with appropriate CIDR blocks",
+    "Created and attached an Internet Gateway to the VPC",
+    "Created and associated route tables for public and private subnets",
+    "Created a NAT Gateway with Elastic IP in the public subnet",
+    "Configured the private route table to use the NAT Gateway for internet access"
+  ],
+  "github_repo_url": "",
+  "status": "Completed"
+}
