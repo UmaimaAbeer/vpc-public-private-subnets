@@ -32,12 +32,10 @@ By the end of this project:
 - `vpc-public-private-subnets.json` – Project summary metadata in JSON
 - `project 4.png` – Visual diagram of the architecture
 
-![Uploading image.png…]()
-
-
-
 
 ---
+![Uploading image.png…]()
+
 
 **Status:** ✅ Completed  
 **Author:** Syeda Umaima Abeer  
